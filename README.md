@@ -14,7 +14,8 @@ Updates:
 
 k.1.3.0
 
-Added Twig and Ladder support so owners may remove other players grief on their base
+Added Twig and Ladder support so owners may remove other players grief on their base.
+Also fixed the unload error preventing the plugin from unloading/disabling properly
 
 
 k.1.3.1
