@@ -10,12 +10,15 @@ The last updated version by him was 1.2.9
 My branch will resume as CTS Kael Branch 1.3.0
 
 
+
 Updates:
 
 k.1.3.0
 
 Added Twig and Ladder support so owners may remove other players grief on their base.
+
 Also fixed the unload error preventing the plugin from unloading/disabling properly
+
 
 
 k.1.3.1
